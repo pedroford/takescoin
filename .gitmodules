@@ -1,0 +1,3 @@
+[submodule "takescoin"] 
+  path = takescoin 
+  url = https://github.com/pancakeswap/pancake-swap-interface-v1.git
